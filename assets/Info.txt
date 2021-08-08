@@ -1,0 +1,10 @@
+Button Size
+-----------
+W: 494px
+H: 91px
+Radius: 15px
+
+Colors
+-------
+Red Hex: f62459
+Green Hex: 22b3c3
