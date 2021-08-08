@@ -7,10 +7,13 @@
 * The project was a part of a [Kaggle Competition](https://www.kaggle.com/c/cvsc21objectcounting/overview) and got the first ranking in the [leaderboard](https://www.kaggle.com/c/cvsc21objectcounting/leaderboard).
 
 ## Table of contents
-* [Setup](##Setup)
-* [Technologies](##Technologies)
-* [Features](##Features)
-* [Contributers](##Contributers)
+* [Technologies](#technologies)
+  * [Dataset](#dataset)
+  * [Model](#model)
+  * [Setup](#setup)
+  * [Features](#features)
+    + [Use Still Image](#use-still-image)
+    + [Use Live Camera](#use-live-camera)
 
 ## Technologies
 * Programming Language: Python 
